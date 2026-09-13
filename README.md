@@ -1,31 +1,57 @@
-# Python Beginner Projects
+# 🐍 Python Beginner Projects
 
 A collection of practical Python projects I'm building while learning software engineering.
 
-## Projects
+I'm using these projects to practice programming fundamentals, problem-solving, APIs, and building useful applications from scratch.
 
-### 🧮 Calculator
-A simple calculator that performs basic arithmetic operations.
+## 🚀 Projects
 
-### 🎯 Number Guessing Game
-A beginner-friendly game where the user tries to guess a randomly generated number.
+| Project | Description |
+|---|---|
+| 🧮 Calculator | A simple calculator for basic arithmetic operations |
+| 💰 Expense Tracker | A beginner project for recording and managing expenses |
+| 🔐 Login System | A simple registration and login system using Python dictionaries |
+| 🎯 Number Guessing Game | A game where the player tries to guess a randomly generated number |
+| 🔑 Password Generator | Generates random passwords using letters, numbers, and punctuation |
+| 🧠 Quiz Game | A simple interactive quiz game |
+| ✂️ Rock Paper Scissors | The classic Rock Paper Scissors game against the computer |
+| 🏧 Simple ATM | A beginner ATM simulation with basic banking operations |
+| 📝 To-Do List | A simple application for managing tasks |
+| 🌤️ Weather App | Retrieves weather information using a public API |
 
-### 📝 To-Do List
-A simple command-line to-do list for adding, viewing, and managing tasks.
+## 🛠️ Skills I'm Practicing
 
-### 💰 Expense Tracker
-A simple program for recording and tracking personal expenses.
-
-## What I'm Learning
-
-- Python programming
-- Programming fundamentals
+- Python
+- Variables and data types
+- Conditional statements
+- Loops
+- Functions
+- Dictionaries and lists
+- User input
+- Randomization
+- Working with APIs
+- JSON data
 - Problem solving
-- Git & GitHub
-- Building projects through practice
+- Git and GitHub
 
-## About
+## 📚 What I'm Learning
 
-I'm learning software engineering from the ground up and using practical projects to improve my programming skills.
+I'm currently learning software engineering from the ground up.
+
+My goal is to move from beginner Python projects into:
+
+**Python → APIs → Automation → Backend Development → AI & Software Engineering**
+
+## 📈 Progress
+
+I'm continuously adding new projects and improving existing ones as I learn.
+
+This repository represents my progress from beginner programming exercises toward building more practical software.
+
+## 👨‍💻 About Me
+
+I'm an aspiring software engineer learning Python and building practical projects while developing my programming skills.
+
+I believe in learning by building, making mistakes, improving, and continuing to grow.
 
 More projects coming soon 🚀
